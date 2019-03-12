@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="glass-background-web" />
+        <module name="glass-common" />
+        <module name="glass-dao" />
+        <module name="glass-entities" />
+        <module name="glass-service-impl" />
+        <module name="glass-service-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="glass-background-web" target="1.8" />
+      <module name="glass-common" target="1.8" />
+      <module name="glass-dao" target="1.8" />
+      <module name="glass-entities" target="1.8" />
+      <module name="glass-parent" target="1.8" />
+      <module name="glass-service" target="1.8" />
+      <module name="glass-service-impl" target="1.8" />
+      <module name="glass-service-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="glass-background-web" options="-parameters" />
+      <module name="glass-common" options="-parameters" />
+      <module name="glass-dao" options="-parameters" />
+      <module name="glass-entities" options="-parameters" />
+      <module name="glass-parent" options="-parameters" />
+      <module name="glass-service" options="-parameters" />
+      <module name="glass-service-impl" options="-parameters" />
+      <module name="glass-service-interface" options="-parameters" />
+    </option>
+  </component>
+</project>

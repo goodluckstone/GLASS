@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GLASS.iml" filepath="$PROJECT_DIR$/.idea/GLASS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-background-web/glass-background-web.iml" filepath="$PROJECT_DIR$/glass-background-web/glass-background-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-common/glass-common.iml" filepath="$PROJECT_DIR$/glass-common/glass-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-dao/glass-dao.iml" filepath="$PROJECT_DIR$/glass-dao/glass-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-entities/glass-entities.iml" filepath="$PROJECT_DIR$/glass-entities/glass-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-parent/glass-parent.iml" filepath="$PROJECT_DIR$/glass-parent/glass-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-service/glass-service.iml" filepath="$PROJECT_DIR$/glass-service/glass-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-service/glass-service-impl/glass-service-impl.iml" filepath="$PROJECT_DIR$/glass-service/glass-service-impl/glass-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass-service/glass-service-interface/glass-service-interface.iml" filepath="$PROJECT_DIR$/glass-service/glass-service-interface/glass-service-interface.iml" />
+    </modules>
+  </component>
+</project>

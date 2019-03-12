@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="glass-parent:war">
+    <output-path>$PROJECT_DIR$/glass-parent/target</output-path>
+    <root id="archive" name="glass-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="glass-parent:war exploded" />
+    </root>
+  </artifact>
+</component>
